@@ -16,4 +16,6 @@ As informações foram organizadas desta maneira por ser mais simples e intuitiv
 
 # Fluxo do usuário
 
-
+<p align="center">
+    <img src="prototipo/CopaNaMao.jpg" width="700" alt="Fluxograma"">
+</p>
